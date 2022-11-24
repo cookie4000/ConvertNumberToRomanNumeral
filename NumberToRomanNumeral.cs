@@ -1,4 +1,4 @@
-public class convertNumberToRomain{
+public class convertNumberToRoman{
     public static void Main(string[] args) {
         int valueToConvert;
         int subTotal;
